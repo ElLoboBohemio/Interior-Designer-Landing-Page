@@ -34,3 +34,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 - GitHub [ElLoboBohemio](https://{github.com/ElLoboBohemio})
 - Twitter [@BohemioLobo](https://{twitter.com/BohemioLobo})
+- CodePen [Josué L.](https://{codepen.io/bohemiolobo})
