@@ -6,7 +6,7 @@
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
 </div>
 
-<h2 align="center">Link to <a href="https://codepen.io/bohemiolobo/full/QWpPdNG" target="_blank">Demo</a></h2>
+<h2 align="center">Link to <a href="https://codepen.io/bohemiolobo/full/QWpPVYz" target="_blank">Demo</a></h2>
 
 <!-- TABLE OF CONTENTS -->
 
